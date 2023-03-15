@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "materialmodifier"]
-	path = materialmodifier
-	url = https://github.com/tsuda16k/materialmodifier
-	shallow = true
-	registered = true
 [submodule "sketcher"]
 	path = sketcher
 	url = https://github.com/tsuda16k/sketcher
+	shallow = true
+	registered = true
+[submodule "materialmodifier"]
+	path = materialmodifier
+	url = https://github.com/tsuda16k/materialmodifier
 	shallow = true
 	registered = true
