@@ -1,10 +1,10 @@
 [
   {
-    "package": "sketcher",
+    "package": "materialmodifier",
     "oncran": true
   },
   {
-    "package": "materialmodifier",
+    "package": "sketcher",
     "oncran": true
   }
 ]
